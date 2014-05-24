@@ -1,4 +1,1 @@
-sinatra-example
-===============
-
-Small sinatra example
+Based on https://github.com/sinatra/sinatra
