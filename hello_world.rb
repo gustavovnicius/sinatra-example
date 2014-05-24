@@ -2,7 +2,7 @@ require 'sinatra'
 require 'json'
 
   get '/' do
-    @nome = 'Jaffer'
+    @nome = 'Gustavo'
     erb :"index.html"
   end
 
